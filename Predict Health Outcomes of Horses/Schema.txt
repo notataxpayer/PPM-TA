@@ -1,0 +1,2 @@
+Dropped Columns: ['id', 'hospital_number', 'lesion_2', 'lesion_3']
+combine none with None: ['abdominal_distention', 'nasogastric_tube', 'nasogastric_reflux']
